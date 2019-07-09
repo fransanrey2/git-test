@@ -1,3 +1,7 @@
 vamos a ver con este que es lo que hace
+<<<<<<< HEAD
 
 con que lo hace no??
+=======
+pues lo sube bien
+>>>>>>> a884807c04a68cbc11c1665b2a70a3b2783765d3
