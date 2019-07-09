@@ -1,4 +1,8 @@
 asfas
 
 hola juantino
+<<<<<<< HEAD
 que pasa iooo
+=======
+heiii que pasa
+>>>>>>> d8e825788b3b8029695ce94cdc91878174f9c97a
